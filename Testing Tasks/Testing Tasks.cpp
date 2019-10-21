@@ -5,7 +5,6 @@ Name: .NET Testing Tasks. ///
 
 #include <iostream>
 #include <conio.h>
-#include <vector>
 
 using namespace std;
 
