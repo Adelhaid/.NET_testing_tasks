@@ -70,8 +70,8 @@ bool symbsChecker(char ch)
 //Внимание! Данная функция была реализована не без помощи других людей.
 int wordsChecker() {
 	string s = "The kangaroo is a marsupial from the family Macropodidae (macropods, meaning \"large foot\")."; //Заданная строка.
-	string temp; //Массив, в котором будут хранится буквы слова.
-	string* str; //Массив, в котором будут хранится слова.
+	string temp; //Массив, хранящая буквы слова.
+	string* str; //Массив, хранящая слова.
 	int index = 0; //Переменная, хранящая элементы строки.
 	int counter = 0; //Переменная, хранящая число интервалов (знаков препинания) между словами в строке.
 	int size; //Переменная, хранящая размерность массива (строки).
