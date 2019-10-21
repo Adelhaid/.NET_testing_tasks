@@ -67,7 +67,7 @@ bool symbsChecker(char ch)
 }
 
 //Функция вывода слов, встречающихся в строке только один раз.
-//Внимание! Данное задание было выполнено не без помощи других людей.
+//Внимание! Данная функция была реализована не без помощи других людей.
 int wordsChecker() {
 	string s = "The kangaroo is a marsupial from the family Macropodidae (macropods, meaning \"large foot\")."; //Заданная строка.
 	string temp; //Массив, в котором будут хранится буквы слова.
